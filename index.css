@@ -1,0 +1,40 @@
+body {
+  margin: 30px;
+  text-align: center;
+  border: solid 2px pink;
+}
+.contacts {
+  font-size: 15px;
+  margin: 0;
+  border-top: 0;
+  padding-top: 0;
+}
+br {
+  size: 3px;
+}
+h2 {
+  font-size: 20px;
+  margin-left: 40px;
+  text-decoration: underline coral;
+}
+.name{
+  padding-bottom: 0;
+  margin-left: 40px;
+  font-size: 25px;
+  border-bottom: 0px;
+  margin-bottom: 0px;
+  font-weight: 600;
+}
+ .name div {
+   display: inline-block;
+ }
+ 
+.profilepic img { margin-top: 50 px;
+  height: 100px;
+}
+a {
+  text-decoration-line: none;
+  text-decoration-color: coral;
+  text-align: center;
+}
+li{text-align: center; display: block;}
